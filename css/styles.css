@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&family=Recursive:wght@300;400;900&display=swap');
+
+
+body{
+    margin: 0;
+}
+#title{
+    background-image: url(/images/flower-1.jpg);
+    color: black;
+    
+}
+
+.navbar-brand{
+    font-family: 'Merienda', cursive;
+    font-size: 3rem !important;
+    font-weight: 700;
+    margin-top: 2rem;
+}
+#logo{
+    height: 70px;
+    width: 120px;
+}
+.nav-link{
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+    font-size: 1.2rem  !important;
+    margin-left: 3rem;
+}
+
+.top{
+    font-family: 'Merienda', cursive;
+    font-weight: 400 !important;
+    font-size: 1.1rem !important;
+    margin-top: 2rem;
+}
+.download-button{
+    margin: 5% 20% 10% 0;
+}
+
+#features{
+    background-color: #f5cfcf;
+    position: relative;
+    margin: auto;
+    padding-top: 20px !important;
+}
+.container1{
+    width: 70%;
+    margin: auto;
+}
+
+.extra-margin{
+    margin-top: 60px;
+}
+h3{
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Merienda', cursive;
+    font-weight: 700 !important;
+}
+.h21{
+    font-family: 'Recursive', sans-serif;
+    font-weight: 900 !important;
+}
+p{
+    font-family: 'Recursive', sans-serif;
+    font-weight: 400;
+}
+#slider{
+    position: relative;
+    z-index: 2;
+    background-color: #d44d4da2;
+    height: fit-content;
+    width: auto;
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    justify-content: center;
+    
+}
+.slider-text{
+    font-family: 'Merienda', cursive;
+    font-weight: 700;
+    font-size: 2rem;
+}
+hr{
+    border-top: 1px solid grey;
+}
+.carousel-inner{
+    margin: auto !important;
+    width: auto;
+    height: 700px;
+    max-width: 80%;
+}
+.carousel-item{
+    height: 700px;
+
+}
+
+#price{
+    background-color: #f5cfcf;
+    font-family: 'Merienda', cursive;
+    text-align: center;
+    padding-bottom: 1em;
+}
+.pricetab{
+    width: 80%;
+    margin: auto;
+}
+.card-header{
+    font-family: 'Merienda', cursive;
+    font-size: 1.3rem;
+
+}
+.cardimg{
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    margin-top: 2rem;
+}
+#bottom{
+    font-family: 'Merienda', cursive;
+    background-color: #e07c7c;
+}
+.textarea{
+    text-align: center;
+    color: #ffff;
+    padding-top: 3em;
+    font-weight: 700;
+    font-size: 1.3rem;    
+}
+.download-button1{
+    margin: 5% 5% 5% 0;
+}
+
+#footer{
+    background-color: #f5cfcf;
+    text-align: center;
+    padding: 30px 0 20px 0;
+    
+}
